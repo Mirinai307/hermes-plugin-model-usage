@@ -1,5 +1,5 @@
 name: model-usage
-version: "1.0.0"
-description: "Status-bar double-ring gauges for Claude and Codex subscription usage (5h session + weekly), with a click-through detail popover."
+version: "1.1.0"
+description: "Status-bar triple-ring gauges for Claude and Codex (context, 5h session, weekly) with 30%/10% limit alerts (in-app + OS notification) and a click-through detail popover."
 author: Mirinai307
 license: MIT
